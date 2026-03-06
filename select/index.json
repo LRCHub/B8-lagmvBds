@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sou「君の羽」MV",
+  "base_artist": "Sou",
+  "createdAt": "2026-03-06T05:55:08.312778Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Southern Climbs",
+      "artist": "South",
+      "has_synced": false,
+      "path": "select/pl_01_Southern_Climbs_South.txt"
+    }
+  ]
+}
